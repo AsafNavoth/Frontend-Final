@@ -1,5 +1,5 @@
 import {Post} from "./post";
-import {useContext, useState} from "react";
+import {useContext} from "react";
 import {BlogContext} from "../Providers/blog-provider";
 import {Link} from "react-router-dom";
 
